@@ -28,4 +28,5 @@ Python (3.10.11), Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Matplotlib, Sea
 Run the App:-
 
 pip install -r requirements.txt
+
 streamlit run app.py
